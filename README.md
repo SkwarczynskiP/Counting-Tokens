@@ -16,7 +16,7 @@ The files in this repository include:
   1. Download the files
   2. Write any natural English language into the "input.txt" file. The file currently has a text copy of the novel _Great Expectations_, by Charles Dickens.
   3. Open the terminal and change directories to the location of the downloaded files
-  4. Type the command "py hw-0.py input.txt [user-configurations]" to run the code (Example: py hw-0.py input.txt -l )
+  4. Type the command "py hw-0.py input.txt [user-configurations]" to run (Example: py hw-0.py input.txt -l )
 
 # Optional Configurations for Noramlization 
 (up to all four customizations can be included)
