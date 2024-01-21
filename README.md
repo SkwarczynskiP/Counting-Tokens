@@ -18,7 +18,7 @@ The files in this repository include:
   3. Open the terminal and change directories to the location of the downloaded files
   4. Type the command "py hw-0.py input.txt [user-configurations]" to run (Example: py hw-0.py input.txt -l )
 
-# Optional Configurations for Noramlization 
+# Optional Configurations for Normalization 
 (up to all four customizations can be included)
   - '-l', or '-L', or '--lower'       -> Lowercase tokens
   - '-le', or '-LE', or '--lemma'     -> Lemmatizing okens
